@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Journey to Become a Software Engineer"
-date:       2020-09-22 03:38:27 +0000
+date:       2020-09-21 23:38:28 -0400
 permalink:  my_journey_to_become_a_software_engineer
 ---
 
