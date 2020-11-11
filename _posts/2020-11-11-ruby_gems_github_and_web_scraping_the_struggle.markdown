@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Gems, Github, and Web Scraping: The Struggle"
-date:       2020-11-11 08:31:17 +0000
+date:       2020-11-11 03:31:18 -0500
 permalink:  ruby_gems_github_and_web_scraping_the_struggle
 ---
 
